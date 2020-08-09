@@ -254,7 +254,7 @@ String end = (String)jComboBox2.getSelectedItem();
 if(!(st.equals(end)))
 {
     //System.out.println("Hee");
-    String JsonFilePath = "E:\\Projects\\Swing\\CabBooking\\user.json";
+    String JsonFilePath = "user.json";
             JSONParser jsonParser = new JSONParser();
  
   try{
